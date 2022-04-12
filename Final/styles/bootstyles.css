@@ -1,0 +1,34 @@
+header{
+    top: 5px;
+    left: 38px;
+    right: 5px;
+    height: 10px;
+    color: antiquewhite;
+}
+
+.mainbody{
+    top: 2px;
+    right: 10px;
+    bottom: 64px;
+    border-left: solid 1px rgb(77, 76, 76);
+    border-right: solid 1px rgb(77, 76, 76);
+    padding: 200px;
+    color: antiquewhite;
+}
+
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../Home/images/rainbowbg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: antiquewhite;
+    text-align: center;
+}
